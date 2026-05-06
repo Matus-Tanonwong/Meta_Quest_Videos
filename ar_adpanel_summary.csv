@@ -1,0 +1,47 @@
+file,ar_id,rows,AdPanel_exist,AdPanel_count,AdPanel_total_duration_sec,AdPanel (1)_exist,AdPanel (1)_count,AdPanel (1)_total_duration_sec,AdPanel (2)_exist,AdPanel (2)_count,AdPanel (2)_total_duration_sec,first_seen,second_seen,third_seen
+AR/Gaze Logs/ar_001_gaze_adpanel_events_2026-02-17_11-26-08.csv,ar_001,11,Yes,5,7.108,Yes,2,3.612,Yes,4,6.153,AD1,AD3,AD2
+AR/Gaze Logs/ar_002_gaze_adpanel_events_2026-02-17_13-28-30.csv,ar_002,8,Yes,1,5.623,Yes,3,5.415,Yes,4,5.402,AD1,AD3,AD2
+AR/Gaze Logs/ar_003_gaze_adpanel_events_2026-02-18_11-18-33.csv,ar_003,15,Yes,6,6.944,No,0,0.0,Yes,9,11.821,AD1,AD3,NA
+AR/Gaze Logs/ar_004_gaze_adpanel_events_2026-02-18_14-19-56.csv,ar_004,11,Yes,2,3.954,Yes,5,5.928,Yes,4,13.197,AD1,AD3,AD2
+AR/Gaze Logs/ar_005_gaze_adpanel_events_2026-02-18_14-56-48.csv,ar_005,11,No,0,0.0,Yes,5,10.036,Yes,6,8.408,AD3,AD2,NA
+AR/Gaze Logs/ar_006_gaze_adpanel_events_2026-02-19_14-18-12.csv,ar_006,7,Yes,3,4.216,Yes,4,2.313,No,0,0.0,AD2,AD1,NA
+AR/Gaze Logs/ar_007_gaze_adpanel_events_2026-02-19_15-09-18.csv,ar_007,4,Yes,1,4.831,Yes,2,1.365,Yes,1,2.422,AD3,AD1,AD2
+AR/Gaze Logs/ar_008_gaze_adpanel_events_2026-02-20_11-38-53.csv,ar_008,7,Yes,4,9.162,Yes,3,7.476,No,0,0.0,AD2,AD1,NA
+AR/Gaze Logs/ar_009_gaze_adpanel_events_2026-02-20_14-27-25.csv,ar_009,2,No,0,0.0,No,0,0.0,Yes,2,9.632,AD3,NA,NA
+AR/Gaze Logs/ar_011_gaze_adpanel_events_2026-02-20_15-32-37.csv,ar_011,10,Yes,5,4.337,Yes,3,4.9,Yes,2,3.235,AD1,AD3,AD2
+AR/Gaze Logs/ar_012_gaze_adpanel_events_2026-02-21_11-29-16.csv,ar_012,5,Yes,1,3.264,Yes,1,3.568,Yes,3,4.93,AD1,AD2,AD3
+AR/Gaze Logs/ar_013_gaze_adpanel_events_2026-02-23_11-47-52.csv,ar_013,8,Yes,4,6.139,Yes,2,1.458,Yes,2,4.36,AD1,AD2,AD3
+AR/Gaze Logs/ar_014_gaze_adpanel_events_2026-02-28_11-47-42.csv,ar_014,0,No,0,0.0,No,0,0.0,No,0,0.0,NA,NA,NA
+AR/Gaze Logs/ar_015_gaze_adpanel_events_2026-03-02_11-17-24.csv,ar_015,5,No,0,0.0,Yes,5,13.0,No,0,0.0,AD2,NA,NA
+AR/Gaze Logs/ar_016_gaze_adpanel_events_2026-03-02_14-31-20.csv,ar_016,8,Yes,6,7.753,No,0,0.0,Yes,2,4.066,AD1,AD3,NA
+AR/Gaze Logs/ar_017_gaze_adpanel_events_2026-03-03_11-36-53.csv,ar_017,5,Yes,1,4.027,Yes,1,9.693,Yes,3,6.43,AD2,AD1,AD3
+AR/Gaze Logs/ar_018_gaze_adpanel_events_2026-03-03_14-12-19.csv,ar_018,4,No,0,0.0,No,0,0.0,Yes,4,7.727,AD3,NA,NA
+AR/Gaze Logs/ar_019_gaze_adpanel_events_2026-03-04_11-48-09.csv,ar_019,13,Yes,4,3.941,Yes,7,15.507,Yes,2,3.425,AD1,AD3,AD2
+AR/Gaze Logs/ar_020_gaze_adpanel_events_2026-03-04_15-15-57.csv,ar_020,7,Yes,2,3.763,Yes,5,9.928,No,0,0.0,AD1,AD2,NA
+AR/Gaze Logs/ar_021_gaze_adpanel_events_2026-03-06_15-48-01.csv,ar_021,17,Yes,4,7.696,Yes,5,2.537,Yes,8,8.519,AD1,AD2,AD3
+AR/Gaze Logs/ar_022_gaze_adpanel_events_2026-03-06_16-52-18.csv,ar_022,6,Yes,3,4.511,No,0,0.0,Yes,3,4.112,AD1,AD3,NA
+AR/Gaze Logs/ar_023_gaze_adpanel_events_2026-03-09_11-08-09 (1).csv,ar_023,14,Yes,7,6.596,Yes,1,0.279,Yes,6,4.636,AD2,AD1,AD3
+AR/Gaze Logs/ar_024_gaze_adpanel_events_2026-03-09_14-17-13.csv,ar_024,2,Yes,2,6.373,No,0,0.0,No,0,0.0,AD1,NA,NA
+AR/Gaze Logs/ar_025_gaze_adpanel_events_2026-03-10_14-21-03.csv,ar_025,7,Yes,2,4.611,Yes,5,5.956,No,0,0.0,AD2,AD1,NA
+AR/Gaze Logs/ar_026_gaze_adpanel_events_2026-03-10_15-01-13.csv,ar_026,14,Yes,6,9.801,Yes,4,5.221,Yes,4,13.197,AD1,AD2,AD3
+AR/Gaze Logs/ar_027_gaze_adpanel_events_2026-03-11_11-32-47.csv,ar_027,0,No,0,0.0,No,0,0.0,No,0,0.0,NA,NA,NA
+AR/Gaze Logs/ar_028_gaze_adpanel_events_2026-03-11_14-10-20.csv,ar_028,13,Yes,4,13.142,Yes,5,10.014,Yes,4,6.755,AD2,AD3,AD1
+AR/Gaze Logs/ar_029_gaze_adpanel_events_2026-03-11_14-56-11.csv,ar_029,12,Yes,5,9.12,Yes,6,4.318,Yes,1,0.599,AD1,AD2,AD3
+AR/Gaze Logs/ar_030_gaze_adpanel_events_2026-03-13_12-02-23.csv,ar_030,13,Yes,2,6.461,Yes,6,5.651,Yes,5,15.435,AD3,AD1,AD2
+AR/Gaze Logs/ar_031_gaze_adpanel_events_2026-03-13_15-20-16.csv,ar_031,3,Yes,1,2.402,No,0,0.0,Yes,2,8.431,AD1,AD3,NA
+AR/Gaze Logs/ar_032_gaze_adpanel_events_2026-03-13_16-59-37.csv,ar_032,10,Yes,4,3.208,Yes,4,7.972,Yes,2,11.985,AD1,AD3,AD2
+AR/Gaze Logs/ar_033_gaze_adpanel_events_2026-03-15_16-05-23.csv,ar_033,3,No,0,0.0,Yes,1,3.368,Yes,2,4.802,AD2,AD3,NA
+AR/Gaze Logs/ar_034_gaze_adpanel_events_2026-03-15_16-52-09.csv,ar_034,5,No,0,0.0,Yes,3,3.111,Yes,2,5.527,AD3,AD2,NA
+AR/Gaze Logs/ar_035_gaze_adpanel_events_2026-03-18_14-32-59.csv,ar_035,10,Yes,3,4.39,Yes,4,6.361,Yes,3,10.124,AD2,AD3,AD1
+AR/Gaze Logs/ar_036_gaze_adpanel_events_2026-03-19_12-30-49.csv,ar_036,7,Yes,6,6.819,Yes,1,0.739,No,0,0.0,AD1,AD2,NA
+AR/Gaze Logs/ar_037_gaze_adpanel_events_2026-03-20_15-19-10.csv,ar_037,1,Yes,1,1.708,No,0,0.0,No,0,0.0,AD1,NA,NA
+AR/Gaze Logs/ar_038_gaze_adpanel_events_2026-03-23_17-10-51.csv,ar_038,1,No,0,0.0,Yes,1,0.306,No,0,0.0,AD2,NA,NA
+AR/Gaze Logs/ar_039_gaze_adpanel_events_2026-03-23_17-58-35.csv,ar_039,3,No,0,0.0,Yes,3,5.414,No,0,0.0,AD2,NA,NA
+AR/Gaze Logs/ar_040_gaze_adpanel_events_2026-03-24_12-07-41.csv,ar_040,6,Yes,3,7.651,Yes,1,4.847,Yes,2,3.569,AD1,AD2,AD3
+AR/Gaze Logs/ar_041_gaze_adpanel_events_2026-03-24_12-33-17.csv,ar_041,6,Yes,2,4.497,Yes,3,7.739,Yes,1,0.209,AD3,AD1,AD2
+AR/Gaze Logs/ar_042_gaze_adpanel_events_2026-03-25_10-52-28.csv,ar_042,1,No,0,0.0,No,0,0.0,Yes,1,3.0,AD3,NA,NA
+AR/Gaze Logs/ar_044_gaze_adpanel_events_2026-03-27_12-33-03.csv,ar_044,5,Yes,1,0.499,Yes,2,2.25,Yes,2,5.402,AD1,AD2,AD3
+AR/Gaze Logs/ar_045_gaze_adpanel_events_2026-03-28_11-26-32.csv,ar_045,2,Yes,1,3.925,Yes,1,3.564,No,0,0.0,AD1,AD2,NA
+AR/Gaze Logs/ar_046_gaze_adpanel_events_2026-03-28_14-21-30.csv,ar_046,10,Yes,2,4.07,Yes,6,9.419,Yes,2,5.736,AD2,AD3,AD1
+ar_adpanel_summary.csv,ar_adpanel,0,No,0,0.0,No,0,0.0,No,0,0.0,NA,NA,NA
+TOTAL,,,Yes,104,182.542,Yes,110,183.265,Yes,98,203.246,NA,NA,NA
